@@ -1,1 +1,1 @@
-export const url = "https://retoolapi.dev/GaknEm/crud-example";
+export const url = "https://retoolapi.dev/vmJ8AL/peliculas";
